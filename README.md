@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Kaloyan Pavlov a second year CS student from Sofia, Bulgaria
+  - 🌱 I’m currently learning: React, Node.js, Spring, Fullstack web development <br/>
+  - 📫 How to reach me: kaloyanpavlov4@gmail.com <br/>
+  - 💼 Currently looking for an internship/junior position
 <!--
 **KaloyanPavlov4/KaloyanPavlov4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
